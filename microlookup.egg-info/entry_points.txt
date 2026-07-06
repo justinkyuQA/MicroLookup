@@ -1,0 +1,2 @@
+[console_scripts]
+microlookup = microlookup.cli:main
